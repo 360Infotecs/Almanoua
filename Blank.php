@@ -16,7 +16,11 @@ if(!isset($_SESSION['user_name'])){
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>BlackHills | Management System </title>
+    <title>BlackHills 
+	
+	
+	
+	| Management System </title>
 
     <!-- Bootstrap -->
     <link href="vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
