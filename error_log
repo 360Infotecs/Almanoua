@@ -1,0 +1,50 @@
+[26-Jan-2018 21:33:51 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 146
+[26-Jan-2018 21:33:51 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 146
+[26-Jan-2018 21:34:31 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 146
+[26-Jan-2018 21:34:31 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 146
+[26-Jan-2018 21:35:25 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 146
+[26-Jan-2018 21:35:25 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 146
+[26-Jan-2018 21:35:47 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 146
+[26-Jan-2018 21:35:47 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 146
+[26-Jan-2018 21:36:40 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:36:40 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:36:49 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:36:49 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:36:53 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:36:53 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:37:19 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:37:19 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:38:43 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:38:43 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:45:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/feroskhan/public_html/123_black/invoice.php on line 544
+[26-Jan-2018 21:45:34 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/invoiceprint.php on line 37
+[26-Jan-2018 21:45:34 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/invoiceprint.php on line 37
+[26-Jan-2018 21:45:34 UTC] PHP Notice:  Undefined variable: con in /home/feroskhan/public_html/123_black/invoiceprint.php on line 39
+[26-Jan-2018 21:45:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/feroskhan/public_html/123_black/invoiceprint.php on line 39
+[26-Jan-2018 21:45:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/feroskhan/public_html/123_black/invoiceprint.php on line 40
+[26-Jan-2018 21:45:34 UTC] PHP Notice:  Undefined variable: Date2 in /home/feroskhan/public_html/123_black/invoiceprint.php on line 61
+[26-Jan-2018 21:45:34 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/invoiceprint.php on line 95
+[26-Jan-2018 21:45:34 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/invoiceprint.php on line 95
+[26-Jan-2018 21:45:34 UTC] PHP Notice:  Undefined variable: con in /home/feroskhan/public_html/123_black/invoiceprint.php on line 102
+[26-Jan-2018 21:45:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/feroskhan/public_html/123_black/invoiceprint.php on line 102
+[26-Jan-2018 21:45:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/feroskhan/public_html/123_black/invoiceprint.php on line 104
+[26-Jan-2018 21:45:34 UTC] PHP Notice:  Undefined variable: Total in /home/feroskhan/public_html/123_black/invoiceprint.php on line 138
+[26-Jan-2018 21:47:04 UTC] PHP Notice:  Undefined variable: user_name in /home/feroskhan/public_html/123_black/invoice.php on line 148
+[26-Jan-2018 21:53:28 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[26-Jan-2018 21:53:28 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[27-Jan-2018 04:46:52 UTC] PHP Notice:  Undefined index: user_name in /home/feroskhan/public_html/123_black/common/sidebar_pro_pic.php on line 10
+[27-Jan-2018 04:48:17 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[27-Jan-2018 04:48:17 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[27-Jan-2018 04:49:56 UTC] PHP Notice:  Undefined index: user_name in /home/feroskhan/public_html/123_black/common/sidebar_pro_pic.php on line 10
+[27-Jan-2018 05:15:50 UTC] PHP Notice:  Undefined index: user_name in /home/feroskhan/public_html/123_black/common/sidebar_pro_pic.php on line 10
+[27-Jan-2018 10:50:26 UTC] PHP Notice:  Undefined index: user_name in /home/feroskhan/public_html/123_black/common/sidebar_pro_pic.php on line 10
+[28-Jan-2018 08:35:36 UTC] PHP Notice:  Undefined index: user_name in /home/feroskhan/public_html/123_black/common/sidebar_pro_pic.php on line 10
+[28-Jan-2018 08:35:57 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[28-Jan-2018 08:35:57 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[28-Jan-2018 08:36:56 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[28-Jan-2018 08:36:56 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[29-Jan-2018 08:53:37 UTC] PHP Notice:  Undefined index: user_name in /home/feroskhan/public_html/123_black/common/sidebar_pro_pic.php on line 10
+[29-Jan-2018 08:54:31 UTC] PHP Warning:  include(Common/DBCon.php): failed to open stream: No such file or directory in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[29-Jan-2018 08:54:31 UTC] PHP Warning:  include(): Failed opening 'Common/DBCon.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/feroskhan/public_html/123_black/productsearcht.php on line 147
+[29-Jan-2018 08:55:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/feroskhan/public_html/123_black/invoice.php on line 544
+[29-Jan-2018 08:56:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/feroskhan/public_html/123_black/invoice.php on line 544
